@@ -1,0 +1,336 @@
+Function Name: main
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 65
+| Memory Addressing   | 13
+| Arthimetic          | 16
+| Bitwise             | 0
+| Branching           | 22
+-------------------------------------
+Total instructions in this function: 160
+
+Function Name: set_constants
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 305
+| Memory Addressing   | 0
+| Arthimetic          | 87
+| Bitwise             | 0
+| Branching           | 18
+-------------------------------------
+Total instructions in this function: 426
+
+Function Name: initialize
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 306
+| Memory Addressing   | 86
+| Arthimetic          | 70
+| Bitwise             | 0
+| Branching           | 116
+-------------------------------------
+Total instructions in this function: 682
+
+Function Name: lhsinit
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 66
+| Memory Addressing   | 29
+| Arthimetic          | 9
+| Bitwise             | 0
+| Branching           | 36
+-------------------------------------
+Total instructions in this function: 170
+
+Function Name: exact_rhs
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 1253
+| Memory Addressing   | 813
+| Arthimetic          | 543
+| Bitwise             | 0
+| Branching           | 152
+-------------------------------------
+Total instructions in this function: 3385
+
+Function Name: adi
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 0
+| Memory Addressing   | 0
+| Arthimetic          | 0
+| Bitwise             | 0
+| Branching           | 0
+-------------------------------------
+Total instructions in this function: 6
+
+Function Name: verify
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 209
+| Memory Addressing   | 92
+| Arthimetic          | 11
+| Bitwise             | 0
+| Branching           | 79
+-------------------------------------
+Total instructions in this function: 486
+
+Function Name: compute_rhs
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 1721
+| Memory Addressing   | 1090
+| Arthimetic          | 687
+| Bitwise             | 0
+| Branching           | 272
+-------------------------------------
+Total instructions in this function: 4785
+
+Function Name: x_solve
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 0
+| Memory Addressing   | 0
+| Arthimetic          | 0
+| Bitwise             | 0
+| Branching           | 0
+-------------------------------------
+Total instructions in this function: 4
+
+Function Name: y_solve
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 0
+| Memory Addressing   | 0
+| Arthimetic          | 0
+| Bitwise             | 0
+| Branching           | 0
+-------------------------------------
+Total instructions in this function: 4
+
+Function Name: z_solve
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 0
+| Memory Addressing   | 0
+| Arthimetic          | 0
+| Bitwise             | 0
+| Branching           | 0
+-------------------------------------
+Total instructions in this function: 4
+
+Function Name: add
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 34
+| Memory Addressing   | 16
+| Arthimetic          | 8
+| Bitwise             | 0
+| Branching           | 16
+-------------------------------------
+Total instructions in this function: 91
+
+Function Name: lhsx
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 1472
+| Memory Addressing   | 1544
+| Arthimetic          | 486
+| Bitwise             | 0
+| Branching           | 16
+-------------------------------------
+Total instructions in this function: 4435
+
+Function Name: x_solve_cell
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 94
+| Memory Addressing   | 94
+| Arthimetic          | 18
+| Bitwise             | 0
+| Branching           | 28
+-------------------------------------
+Total instructions in this function: 306
+
+Function Name: x_backsubstitute
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 44
+| Memory Addressing   | 23
+| Arthimetic          | 11
+| Bitwise             | 0
+| Branching           | 20
+-------------------------------------
+Total instructions in this function: 121
+
+Function Name: binvcrhs
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 1398
+| Memory Addressing   | 1105
+| Arthimetic          | 365
+| Bitwise             | 0
+| Branching           | 0
+-------------------------------------
+Total instructions in this function: 2869
+
+Function Name: matvec_sub
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 38
+| Memory Addressing   | 21
+| Arthimetic          | 11
+| Bitwise             | 0
+| Branching           | 4
+-------------------------------------
+Total instructions in this function: 83
+
+Function Name: matmul_sub
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 162
+| Memory Addressing   | 124
+| Arthimetic          | 51
+| Bitwise             | 0
+| Branching           | 4
+-------------------------------------
+Total instructions in this function: 378
+
+Function Name: binvrhs
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 572
+| Memory Addressing   | 404
+| Arthimetic          | 140
+| Bitwise             | 0
+| Branching           | 0
+-------------------------------------
+Total instructions in this function: 1117
+
+Function Name: lhsy
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 1479
+| Memory Addressing   | 1540
+| Arthimetic          | 490
+| Bitwise             | 0
+| Branching           | 24
+-------------------------------------
+Total instructions in this function: 4449
+
+Function Name: y_solve_cell
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 94
+| Memory Addressing   | 97
+| Arthimetic          | 18
+| Bitwise             | 0
+| Branching           | 28
+-------------------------------------
+Total instructions in this function: 309
+
+Function Name: y_backsubstitute
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 44
+| Memory Addressing   | 23
+| Arthimetic          | 11
+| Bitwise             | 0
+| Branching           | 20
+-------------------------------------
+Total instructions in this function: 121
+
+Function Name: lhsz
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 1480
+| Memory Addressing   | 1540
+| Arthimetic          | 491
+| Bitwise             | 0
+| Branching           | 24
+-------------------------------------
+Total instructions in this function: 4451
+
+Function Name: z_solve_cell
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 94
+| Memory Addressing   | 97
+| Arthimetic          | 18
+| Bitwise             | 0
+| Branching           | 28
+-------------------------------------
+Total instructions in this function: 309
+
+Function Name: z_backsubstitute
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 44
+| Memory Addressing   | 23
+| Arthimetic          | 11
+| Bitwise             | 0
+| Branching           | 20
+-------------------------------------
+Total instructions in this function: 121
+
+Function Name: exact_solution
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 49
+| Memory Addressing   | 32
+| Arthimetic          | 25
+| Bitwise             | 0
+| Branching           | 4
+-------------------------------------
+Total instructions in this function: 126
+
+Function Name: error_norm
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 77
+| Memory Addressing   | 25
+| Arthimetic          | 15
+| Bitwise             | 0
+| Branching           | 28
+-------------------------------------
+Total instructions in this function: 172
+
+Function Name: rhs_norm
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 63
+| Memory Addressing   | 19
+| Arthimetic          | 14
+| Bitwise             | 0
+| Branching           | 28
+-------------------------------------
+Total instructions in this function: 146
+

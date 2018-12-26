@@ -1,0 +1,108 @@
+Function Name: main
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 471
+| Memory Addressing   | 225
+| Arthimetic          | 565
+| Bitwise             | 18
+| Branching           | 231
+-------------------------------------
+Total instructions in this function: 2068
+
+Function Name: initialize
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 51
+| Memory Addressing   | 25
+| Arthimetic          | 63
+| Bitwise             | 0
+| Branching           | 72
+-------------------------------------
+Total instructions in this function: 387
+
+Function Name: adi
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 610
+| Memory Addressing   | 556
+| Arthimetic          | 819
+| Bitwise             | 2
+| Branching           | 210
+-------------------------------------
+Total instructions in this function: 3049
+
+Function Name: compute_rhs
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 297
+| Memory Addressing   | 185
+| Arthimetic          | 472
+| Bitwise             | 0
+| Branching           | 228
+-------------------------------------
+Total instructions in this function: 1565
+
+Function Name: binvcrhs
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 389
+| Memory Addressing   | 51
+| Arthimetic          | 239
+| Bitwise             | 0
+| Branching           | 0
+-------------------------------------
+Total instructions in this function: 926
+
+Function Name: matvec_sub
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 12
+| Memory Addressing   | 10
+| Arthimetic          | 11
+| Bitwise             | 0
+| Branching           | 2
+-------------------------------------
+Total instructions in this function: 38
+
+Function Name: matmul_sub
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 60
+| Memory Addressing   | 35
+| Arthimetic          | 51
+| Bitwise             | 0
+| Branching           | 2
+-------------------------------------
+Total instructions in this function: 151
+
+Function Name: binvrhs
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 173
+| Memory Addressing   | 29
+| Arthimetic          | 104
+| Bitwise             | 0
+| Branching           | 0
+-------------------------------------
+Total instructions in this function: 393
+
+Function Name: exact_solution
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 14
+| Memory Addressing   | 14
+| Arthimetic          | 25
+| Bitwise             | 0
+| Branching           | 2
+-------------------------------------
+Total instructions in this function: 58
+

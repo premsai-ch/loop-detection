@@ -1,0 +1,84 @@
+Function Name: main
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 173
+| Memory Addressing   | 40
+| Arthimetic          | 44
+| Bitwise             | 0
+| Branching           | 55
+-------------------------------------
+Total instructions in this function: 377
+
+Function Name: makea
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 152
+| Memory Addressing   | 43
+| Arthimetic          | 14
+| Bitwise             | 0
+| Branching           | 31
+-------------------------------------
+Total instructions in this function: 282
+
+Function Name: conj_grad
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 212
+| Memory Addressing   | 55
+| Arthimetic          | 51
+| Bitwise             | 0
+| Branching           | 44
+-------------------------------------
+Total instructions in this function: 410
+
+Function Name: sprnvc
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 58
+| Memory Addressing   | 20
+| Arthimetic          | 5
+| Bitwise             | 0
+| Branching           | 14
+-------------------------------------
+Total instructions in this function: 113
+
+Function Name: vecset
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 37
+| Memory Addressing   | 12
+| Arthimetic          | 2
+| Bitwise             | 0
+| Branching           | 8
+-------------------------------------
+Total instructions in this function: 67
+
+Function Name: sparse
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 222
+| Memory Addressing   | 66
+| Arthimetic          | 35
+| Bitwise             | 0
+| Branching           | 49
+-------------------------------------
+Total instructions in this function: 428
+
+Function Name: icnvrt
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 4
+| Memory Addressing   | 2
+| Arthimetic          | 1
+| Bitwise             | 0
+| Branching           | 0
+-------------------------------------
+Total instructions in this function: 10
+

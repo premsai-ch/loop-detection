@@ -1,0 +1,24 @@
+Function Name: main
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 233
+| Memory Addressing   | 133
+| Arthimetic          | 159
+| Bitwise             | 46
+| Branching           | 197
+-------------------------------------
+Total instructions in this function: 1160
+
+Function Name: conj_grad
+------------------------------------
+| Instruction Type    |   Count     
+------------------------------------
+| Memory Access       | 145
+| Memory Addressing   | 93
+| Arthimetic          | 182
+| Bitwise             | 20
+| Branching           | 119
+-------------------------------------
+Total instructions in this function: 746
+
